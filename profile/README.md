@@ -1,5 +1,5 @@
 <a href="https://teamwest.co.kr/">
-	<img src="https://teamwest.co.kr/must/logo_lg.svg" alt="TEAMWEST Logo" height="40">
+	<img src="https://teamwest.co.kr/must/logo_lg.svg" alt="TEAMWEST Logo" height="50">
 <a>
 
 ## Introduction
