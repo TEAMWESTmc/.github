@@ -1,7 +1,8 @@
-# TEAMWEST
+<a href="https://teamwest.co.kr/">
+	<img src="https://teamwest.co.kr/must/logo_lg.svg" alt="TEAMWEST Logo" height="40">
+<a>
 
 ## Introduction
-### [Web Page](https://teamwest.co.kr/)
 - Minecraft Content Creators Team in Korea
 - Mainly build cities...
 - We Use Custom resourcepack aka [WEST-Urban](https://github.com/TEAMWESTmc/West-Urban)
