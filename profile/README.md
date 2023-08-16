@@ -6,7 +6,7 @@
 ## Introduction
 - Minecraft Content Creators Team in Korea
 - Mainly build cities...
-- We Use Custom resourcepack aka [WEST-Urban](https://github.com/TEAMWESTmc/West-Urban)
+- We Use Custom resourcepack aka [West-Urban](https://github.com/TEAMWESTmc/West-Urban)
 
 ### Our cities
 <img src="https://teamwest.co.kr/must/background_index.png" alt="SLC image" height="200">
